@@ -2,7 +2,8 @@ import java.util.Scanner;
 public class apr11 {
     
     public static void main(String arg[]){
-     int a,b;
+     /* 
+        int a,b;
      System.out.println("enter the variable");
      Scanner sc=new Scanner(System.in);
      a=sc.nextInt();
@@ -34,5 +35,8 @@ public class apr11 {
                System.out.println("invalid operator");
             break;
      }
+            */
+
+            
     }
 }
