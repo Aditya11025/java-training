@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "june3_2",
+      "request": "launch",
+      "mainClass": "june3_2",
+      "projectName": "javatrain_9fc4f577"
+    },
+    {
+      "type": "java",
+      "name": "june3",
+      "request": "launch",
+      "mainClass": "june3",
+      "projectName": "javatrain_9fc4f577"
+    },
+    {
+      "type": "java",
+      "name": "june2_1",
+      "request": "launch",
+      "mainClass": "june2_1",
+      "projectName": "javatrain_9fc4f577"
+    },
+    {
+      "type": "java",
+      "name": "june2",
+      "request": "launch",
+      "mainClass": "june2",
+      "projectName": "javatrain_9fc4f577"
+    },
+    {
+      "type": "java",
+      "name": "may28",
+      "request": "launch",
+      "mainClass": "may28",
+      "projectName": "javatrain_9fc4f577"
+    },
+    {
+      "type": "java",
       "name": "may09",
       "request": "launch",
       "mainClass": "may09",
